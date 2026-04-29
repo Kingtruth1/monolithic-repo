@@ -4,7 +4,7 @@
   "repo": "https://github.com/example-org/example-repo.git",
   "branch": "main",
   "jenkinsfile": "path/to/Jenkinsfile"
-}
+},
   {
   "name": "create-update-secrets-manager-pipeline",
   "repo": "https://github.com/Kingtruth1/monolithic-repo.git",
